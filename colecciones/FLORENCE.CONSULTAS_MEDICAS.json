@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "680d81b49bf2f4fdbfae2dc3"
+  },
+  "historia": {
+    "$oid": "680d7d349bf2f4fdbfae2dc1"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-27T01:00:36.900Z"
+  },
+  "personal_medico": {
+    "$oid": "680d6c059bf2f4fdbfae2db6"
+  },
+  "motivo_consulta": "Tos persistente",
+  "enfermedad_actual": "Tos seca por más de 2 semanas, sin fiebre ni expectoración.",
+  "diagnostico": "Tos crónica",
+  "tratamiento_recetado": "Antitusígenos y reposo",
+  "observaciones": "Recomendado evitar ambientes secos y polvorientos",
+  "signos_vitales": {
+    "presion_arterial": "120/80",
+    "frecuencia_cardiaca": 78,
+    "temperatura": 36.7,
+    "saturacion_oxigeno": 98
+  },
+  "seguimiento": "Revisión en 1 semana si persisten los síntomas",
+  "estudios_solicitados": [
+    {
+      "tipo_estudio": "Radiografía de tórax"
+    },
+    {
+      "tipo_estudio": "Análisis de sangre completo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680da78b9bf2f4fdbfae2dcc"
+  },
+  "historia": {
+    "$oid": "680da6899bf2f4fdbfae2dcb"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-27T03:42:03.223Z"
+  },
+  "personal_medico": {
+    "$oid": "680d96469bf2f4fdbfae2dc6"
+  },
+  "motivo_consulta": "Fiebre y malestar general",
+  "enfermedad_actual": "Fiebre intermitente desde hace 3 días, malestar general, falta de apetito.",
+  "diagnostico": "Posible infección viral",
+  "tratamiento_recetado": "Paracetamol para la fiebre, líquidos y descanso",
+  "observaciones": "Se recomienda monitoreo de la temperatura y acudir a urgencias si la fiebre persiste por más de 48 horas.",
+  "signos_vitales": {
+    "presion_arterial": "90/60",
+    "frecuencia_cardiaca": 112,
+    "temperatura": 38.2,
+    "saturacion_oxigeno": 97
+  },
+  "seguimiento": "Revisión en 48 horas si los síntomas no mejoran",
+  "estudios_solicitados": [
+    {
+      "tipo_estudio": "Examen de orina"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680e51169bf2f4fdbfae2dd2"
+  },
+  "historia": {
+    "$oid": "680e4fbe9bf2f4fdbfae2dd1"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-27T15:45:26.551Z"
+  },
+  "personal_medico": {
+    "$oid": "680e495c9bf2f4fdbfae2dce"
+  },
+  "motivo_consulta": "Pérdida de memoria progresiva y episodios de desorientación",
+  "enfermedad_actual": "Desde hace aproximadamente un año presenta olvidos frecuentes, dificultad para encontrar palabras, episodios de desorientación espacial y temporal, y caídas recurrentes.",
+  "diagnostico": "Demencia tipo Alzheimer en etapa leve-moderada",
+  "tratamiento_recetado": "Inhibidores de la acetilcolinesterasa (Donepezilo 5mg/día) y terapia de estimulación cognitiva",
+  "observaciones": "Paciente con riesgo de caídas. Se recomienda supervisión constante y adecuación del hogar para minimizar riesgos.",
+  "signos_vitales": {
+    "presion_arterial": "140/85",
+    "frecuencia_cardiaca": 82,
+    "temperatura": 36.5,
+    "saturacion_oxigeno": 97
+  },
+  "seguimiento": "Control neurológico en 3 meses o antes si empeoran los síntomas",
+  "estudios_solicitados": [
+    {
+      "tipo_estudio": "Resonancia magnética cerebral"
+    },
+    {
+      "tipo_estudio": "Análisis de perfil tiroideo y metabólico completo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680e5abb9bf2f4fdbfae2dd8"
+  },
+  "historia": {
+    "$oid": "680e5a1c9bf2f4fdbfae2dd7"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-27T16:26:35.524Z"
+  },
+  "personal_medico": {
+    "$oid": "680e54d59bf2f4fdbfae2dd4"
+  },
+  "motivo_consulta": "Dolor abdominal recurrente y acidez",
+  "enfermedad_actual": "Dolor epigástrico ocasional, sensación de ardor estomacal, peor en ayunas y en la noche. No hay vómitos ni pérdida de peso.",
+  "diagnostico": "Gastritis crónica en fase aguda",
+  "tratamiento_recetado": "Omeprazol 20 mg una vez al día por 4 semanas, dieta blanda, evitar irritantes gástricos.",
+  "observaciones": "Se recomienda control del estrés escolar y hábitos de alimentación saludables.",
+  "signos_vitales": {
+    "presion_arterial": "115/75",
+    "frecuencia_cardiaca": 82,
+    "temperatura": 36.5,
+    "saturacion_oxigeno": 99
+  },
+  "seguimiento": "Consulta de control en 1 mes o antes si empeora.",
+  "estudios_solicitados": [
+    {
+      "tipo_estudio": "Endoscopia digestiva alta"
+    },
+    {
+      "tipo_estudio": "Prueba de Helicobacter pylori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680e718b848852e3c4b245f5"
+  },
+  "historia": {
+    "$oid": "680e5a1c9bf2f4fdbfae2dd7"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-27T18:03:55.250Z"
+  },
+  "personal_medico": {
+    "$oid": "680e7085848852e3c4b245f4"
+  },
+  "motivo_consulta": "Dificultad para relacionarse con otros adolescentes",
+  "enfermedad_actual": "Presenta síntomas de ansiedad social desde hace aproximadamente un año. Refiere miedo intenso a ser juzgado, evita participar en actividades grupales y siente sudoración y taquicardia en interacciones nuevas.",
+  "evaluacion_psicologica": "Paciente alerta, orientado en tiempo y espacio. Se muestra ansioso durante la entrevista, con contacto visual escaso y lenguaje verbal limitado. Reporta sentimientos de inseguridad y baja autoestima.",
+  "diagnostico": "Trastorno de ansiedad social (en evaluación)",
+  "objetivos_terapia": "Desarrollar habilidades sociales, manejo de la ansiedad en situaciones sociales, fortalecimiento de la autoestima.",
+  "plan_terapeutico": "Terapia cognitivo-conductual con sesiones semanales enfocadas en exposición gradual a situaciones sociales y reestructuración cognitiva.",
+  "observaciones": "Paciente muestra buena disposición al tratamiento, pero se sugiere involucrar a la familia como apoyo terapéutico.",
+  "seguimiento": "Sesión de seguimiento semanal durante los próximos 3 meses, con evaluación de progreso cada mes."
+},
+{
+  "_id": {
+    "$oid": "680e7a71848852e3c4b245f8"
+  },
+  "historia": {
+    "$oid": "680e4fbe9bf2f4fdbfae2dd1"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-27T18:41:53.982Z"
+  },
+  "personal_medico": {
+    "$oid": "680e7423848852e3c4b245f6"
+  },
+  "motivo_consulta": "Pérdida de memoria progresiva y cambios de comportamiento",
+  "enfermedad_actual": "Paciente refiere olvidos frecuentes de eventos recientes, dificultad para reconocer lugares familiares y episodios de desorientación temporal. Familiares reportan irritabilidad y cambios en el estado de ánimo en los últimos 6 meses.",
+  "evaluacion_psiquiatrica": "Paciente consciente, parcialmente orientada en tiempo y espacio. Lenguaje fluido pero con dificultad para recordar palabras específicas. Estado de ánimo variable, afecto lábil. Escala Mini-Mental State Examination (MMSE) puntaje: 19/30 (deterioro cognitivo moderado).",
+  "diagnostico": "Deterioro cognitivo leve - probable enfermedad de Alzheimer en etapa inicial",
+  "tratamiento_recetado": "Inicio de tratamiento con inhibidor de la acetilcolinesterasa (Donepezilo 5 mg diarios).",
+  "plan_manejo": "Seguimiento neurológico y psiquiátrico mensual. Terapia de estimulación cognitiva. Educación a familiares sobre manejo de paciente con demencia.",
+  "observaciones": "Se recomienda mantener rutinas estructuradas, supervisión constante y evaluación neurológica complementaria para confirmar diagnóstico.",
+  "seguimiento": "Control en 1 mes para evaluación de respuesta al tratamiento farmacológico y ajuste terapéutico."
+},
+{
+  "_id": {
+    "$oid": "680e7f30848852e3c4b245fb"
+  },
+  "historia": {
+    "$oid": "680e7dff848852e3c4b245fa"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-27T19:02:08.866Z"
+  },
+  "personal_medico": {
+    "$oid": "680d96469bf2f4fdbfae2dc6"
+  },
+  "motivo_consulta": "Dificultades respiratorias y tos persistente",
+  "enfermedad_actual": "Tos persistente por más de 1 semana, sin fiebre, pero con dificultad respiratoria y ruidos respiratorios al exhalar.",
+  "diagnostico": "Posible bronquiolitis o infección respiratoria viral.",
+  "tratamiento_recetado": "Nebulizaciones con salbutamol y esteroides inhalados, reposo, hidratación adecuada.",
+  "observaciones": "Se recomienda mantener el ambiente húmedo, evitar cambios bruscos de temperatura y controlar la frecuencia respiratoria.",
+  "signos_vitales": {
+    "presion_arterial": "80/50",
+    "frecuencia_cardiaca": 120,
+    "temperatura": 37.2,
+    "saturacion_oxigeno": 96
+  },
+  "seguimiento": "Revisión en 3 días para evaluación de mejoría respiratoria, control de signos vitales.",
+  "estudios_solicitados": [
+    {
+      "tipo_estudio": "Radiografía de tórax para evaluar el estado pulmonar."
+    }
+  ]
+}]

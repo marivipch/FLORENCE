@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "680d66d69bf2f4fdbfae2dad"
+  },
+  "pregunta": "¿Cómo se llama tu mascota actual o la más querida que has tenido?"
+},
+{
+  "_id": {
+    "$oid": "680d66d69bf2f4fdbfae2dae"
+  },
+  "pregunta": "¿Cuál es el apellido materno de tu madre?"
+},
+{
+  "_id": {
+    "$oid": "680d66d69bf2f4fdbfae2daf"
+  },
+  "pregunta": "¿En qué ciudad fue tu primer viaje al extranjero?"
+},
+{
+  "_id": {
+    "$oid": "680d66d69bf2f4fdbfae2db0"
+  },
+  "pregunta": "¿Cuál es tu comida favorita?"
+},
+{
+  "_id": {
+    "$oid": "680d66d69bf2f4fdbfae2db1"
+  },
+  "pregunta": "¿Cuál es el nombre de tu mejor amigo/a de la infancia?"
+},
+{
+  "_id": {
+    "$oid": "680d66d69bf2f4fdbfae2db2"
+  },
+  "pregunta": "¿Cuál es tu libro favorito?"
+},
+{
+  "_id": {
+    "$oid": "680d66d69bf2f4fdbfae2db3"
+  },
+  "pregunta": "¿Cuál es el nombre del hospital donde naciste?"
+}]

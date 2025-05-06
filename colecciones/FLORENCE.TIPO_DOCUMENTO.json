@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "codigo": "CC",
+  "descripcion": "Cedula de ciudadania"
+},
+{
+  "_id": {
+    "$oid": "680d407a9bf2f4fdbfae2d9e"
+  },
+  "codigo": "CE",
+  "descripcion": "Cedula de extranjeria"
+},
+{
+  "_id": {
+    "$oid": "680d407a9bf2f4fdbfae2d9f"
+  },
+  "codigo": "TI",
+  "descripcion": "Tarjeta de identidad"
+},
+{
+  "_id": {
+    "$oid": "680d407a9bf2f4fdbfae2da0"
+  },
+  "codigo": "PA",
+  "descripcion": "Pasaporte"
+},
+{
+  "_id": {
+    "$oid": "680d407a9bf2f4fdbfae2da1"
+  },
+  "codigo": "RC",
+  "descripcion": "Registro civil"
+},
+{
+  "_id": {
+    "$oid": "680d407a9bf2f4fdbfae2da2"
+  },
+  "codigo": "PTP",
+  "descripcion": "Permiso Temporal de Permanencia"
+}]

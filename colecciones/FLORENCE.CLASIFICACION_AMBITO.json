@@ -1,0 +1,297 @@
+[{
+  "_id": {
+    "$oid": "680d45709bf2f4fdbfae2da4"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Medicina Interna"
+},
+{
+  "_id": {
+    "$oid": "680d45ba9bf2f4fdbfae2da5"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Cardiología"
+},
+{
+  "_id": {
+    "$oid": "680d45e09bf2f4fdbfae2da6"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Gastroenterología"
+},
+{
+  "_id": {
+    "$oid": "680d462a9bf2f4fdbfae2da7"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Cirugía Ortopédica"
+},
+{
+  "_id": {
+    "$oid": "680d46489bf2f4fdbfae2da8"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Cirugía General"
+},
+{
+  "_id": {
+    "$oid": "680d46d39bf2f4fdbfae2da9"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Cirugía Vascular"
+},
+{
+  "_id": {
+    "$oid": "680d471d9bf2f4fdbfae2daa"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Neurología"
+},
+{
+  "_id": {
+    "$oid": "680d47449bf2f4fdbfae2dab"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Pediatría"
+},
+{
+  "_id": {
+    "$oid": "680d479a9bf2f4fdbfae2dac"
+  },
+  "ambito": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "especialidad": "Otorrinolaringología"
+},
+{
+  "_id": {
+    "$oid": "680e5fa49bf2f4fdbfae2ddf"
+  },
+  "ambito": {
+    "$oid": "680e5c609bf2f4fdbfae2dd9"
+  },
+  "especialidad": "Enfermero/a de atención primaria"
+},
+{
+  "_id": {
+    "$oid": "680e5fd89bf2f4fdbfae2de0"
+  },
+  "ambito": {
+    "$oid": "680e5c609bf2f4fdbfae2dd9"
+  },
+  "especialidad": "Enfermero/a de cuidados intensivos"
+},
+{
+  "_id": {
+    "$oid": "680e600c9bf2f4fdbfae2de1"
+  },
+  "ambito": {
+    "$oid": "680e5c609bf2f4fdbfae2dd9"
+  },
+  "especialidad": "Enfermero/a quirúrgico/a"
+},
+{
+  "_id": {
+    "$oid": "680e60389bf2f4fdbfae2de2"
+  },
+  "ambito": {
+    "$oid": "680e5c609bf2f4fdbfae2dd9"
+  },
+  "especialidad": "Enfermero/a pediátrico/a"
+},
+{
+  "_id": {
+    "$oid": "680e60bf9bf2f4fdbfae2de3"
+  },
+  "ambito": {
+    "$oid": "680e5ccd9bf2f4fdbfae2dda"
+  },
+  "especialidad": "Fisioterapeuta"
+},
+{
+  "_id": {
+    "$oid": "680e610b9bf2f4fdbfae2de4"
+  },
+  "ambito": {
+    "$oid": "680e5ccd9bf2f4fdbfae2dda"
+  },
+  "especialidad": "Terapeuta ocupacional"
+},
+{
+  "_id": {
+    "$oid": "680e61309bf2f4fdbfae2de5"
+  },
+  "ambito": {
+    "$oid": "680e5ccd9bf2f4fdbfae2dda"
+  },
+  "especialidad": "Logopeda"
+},
+{
+  "_id": {
+    "$oid": "680e61809bf2f4fdbfae2de6"
+  },
+  "ambito": {
+    "$oid": "680e5ccd9bf2f4fdbfae2dda"
+  },
+  "especialidad": "Terapeuta respiratorio"
+},
+{
+  "_id": {
+    "$oid": "680e62119bf2f4fdbfae2de7"
+  },
+  "ambito": {
+    "$oid": "680e5d4e9bf2f4fdbfae2ddb"
+  },
+  "especialidad": "Técnico de laboratorio clínico"
+},
+{
+  "_id": {
+    "$oid": "680e624a9bf2f4fdbfae2de8"
+  },
+  "ambito": {
+    "$oid": "680e5d4e9bf2f4fdbfae2ddb"
+  },
+  "especialidad": "Técnico en radiología"
+},
+{
+  "_id": {
+    "$oid": "680e62a59bf2f4fdbfae2de9"
+  },
+  "ambito": {
+    "$oid": "680e5d4e9bf2f4fdbfae2ddb"
+  },
+  "especialidad": "Técnico en emergencias médicas"
+},
+{
+  "_id": {
+    "$oid": "680e62d49bf2f4fdbfae2dea"
+  },
+  "ambito": {
+    "$oid": "680e5d4e9bf2f4fdbfae2ddb"
+  },
+  "especialidad": "Técnico en farmacias"
+},
+{
+  "_id": {
+    "$oid": "680e63949bf2f4fdbfae2deb"
+  },
+  "ambito": {
+    "$oid": "680e5db39bf2f4fdbfae2ddc"
+  },
+  "especialidad": "Psicólogo/a clínico/a"
+},
+{
+  "_id": {
+    "$oid": "680e63b99bf2f4fdbfae2dec"
+  },
+  "ambito": {
+    "$oid": "680e5db39bf2f4fdbfae2ddc"
+  },
+  "especialidad": "Psiquiatria"
+},
+{
+  "_id": {
+    "$oid": "680e63ea9bf2f4fdbfae2ded"
+  },
+  "ambito": {
+    "$oid": "680e5db39bf2f4fdbfae2ddc"
+  },
+  "especialidad": "Terapeuta de grupo"
+},
+{
+  "_id": {
+    "$oid": "680e641a9bf2f4fdbfae2dee"
+  },
+  "ambito": {
+    "$oid": "680e5db39bf2f4fdbfae2ddc"
+  },
+  "especialidad": "Consejero/a de salud mental"
+},
+{
+  "_id": {
+    "$oid": "680e651a9bf2f4fdbfae2def"
+  },
+  "ambito": {
+    "$oid": "680e5dfd9bf2f4fdbfae2ddd"
+  },
+  "especialidad": "Epidemiólogo/a"
+},
+{
+  "_id": {
+    "$oid": "680e65509bf2f4fdbfae2df0"
+  },
+  "ambito": {
+    "$oid": "680e5dfd9bf2f4fdbfae2ddd"
+  },
+  "especialidad": "Trabajador/a social de salud pública"
+},
+{
+  "_id": {
+    "$oid": "680e65829bf2f4fdbfae2df1"
+  },
+  "ambito": {
+    "$oid": "680e5dfd9bf2f4fdbfae2ddd"
+  },
+  "especialidad": "Promotor/a de salud"
+},
+{
+  "_id": {
+    "$oid": "680e65a89bf2f4fdbfae2df2"
+  },
+  "ambito": {
+    "$oid": "680e5dfd9bf2f4fdbfae2ddd"
+  },
+  "especialidad": "Investigador/a en salud pública"
+},
+{
+  "_id": {
+    "$oid": "680e66099bf2f4fdbfae2df3"
+  },
+  "ambito": {
+    "$oid": "680e5ea59bf2f4fdbfae2dde"
+  },
+  "especialidad": "Patólogo/a"
+},
+{
+  "_id": {
+    "$oid": "680e662f9bf2f4fdbfae2df4"
+  },
+  "ambito": {
+    "$oid": "680e5ea59bf2f4fdbfae2dde"
+  },
+  "especialidad": "Radiólogo/a"
+},
+{
+  "_id": {
+    "$oid": "680e66799bf2f4fdbfae2df5"
+  },
+  "ambito": {
+    "$oid": "680e5ea59bf2f4fdbfae2dde"
+  },
+  "especialidad": "Técnico en electroencefalografía (EEG)"
+},
+{
+  "_id": {
+    "$oid": "680e66b89bf2f4fdbfae2df6"
+  },
+  "ambito": {
+    "$oid": "680e5ea59bf2f4fdbfae2dde"
+  },
+  "especialidad": "Técnico en ecocardiografía"
+}]

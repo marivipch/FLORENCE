@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "680d7d349bf2f4fdbfae2dc1"
+  },
+  "paciente": {
+    "$oid": "680d70cf9bf2f4fdbfae2dbc"
+  },
+  "fecha_historia": {
+    "$date": "2025-04-27T00:41:24.412Z"
+  },
+  "personal_medico": {
+    "$oid": "680d6c059bf2f4fdbfae2db6"
+  },
+  "antecedentes_personales": "Hipertensión arterial",
+  "antecedentes_traumatologicos": "Luxación de hombro hace 10 años",
+  "antecedentes_quirurgicos": "Apendicectomía en 2005",
+  "antecedentes_toxicologicos": "Fumador desde los 18 años",
+  "antecedentes_alergicos": "Alérgico a la penicilina",
+  "antecedentes_oncologicos": "Sin antecedentes",
+  "antecedentes_ginecologicos": "No aplica",
+  "antecedentes_farmacologicos": "Losartán 50mg diario",
+  "antecedentes_familiares": "Padre con enfermedad coronaria"
+},
+{
+  "_id": {
+    "$oid": "680da6899bf2f4fdbfae2dcb"
+  },
+  "paciente": {
+    "$oid": "680da2779bf2f4fdbfae2dc9"
+  },
+  "fecha_historia": {
+    "$date": "2025-04-27T03:37:45.385Z"
+  },
+  "personal_medico": {
+    "$oid": "680d94a49bf2f4fdbfae2dc5"
+  },
+  "antecedentes_personales": "No presenta antecedentes personales relevantes.",
+  "antecedentes_traumatologicos": "Sin antecedentes traumáticos.",
+  "antecedentes_quirurgicos": "No ha sido sometida a cirugía.",
+  "antecedentes_toxicologicos": "No expuesta a sustancias tóxicas.",
+  "antecedentes_alergicos": "Alergia al polen.",
+  "antecedentes_oncologicos": "Sin antecedentes oncológicos familiares.",
+  "antecedentes_ginecologicos": "NA",
+  "antecedentes_farmacologicos": "No está bajo tratamiento farmacológico.",
+  "antecedentes_familiares": "No presenta antecedentes familiares relevantes."
+},
+{
+  "_id": {
+    "$oid": "680e4fbe9bf2f4fdbfae2dd1"
+  },
+  "paciente": {
+    "$oid": "680e4bf09bf2f4fdbfae2dcf"
+  },
+  "fecha_historia": {
+    "$date": "2025-04-27T15:39:42.740Z"
+  },
+  "personal_medico": {
+    "$oid": "680e495c9bf2f4fdbfae2dce"
+  },
+  "antecedentes_personales": "Hipertensión arterial, diabetes tipo 2, dislipidemia",
+  "antecedentes_traumatologicos": "Fractura de cadera hace 5 años, osteoporosis avanzada",
+  "antecedentes_quirurgicos": "Reemplazo total de cadera derecha en 2021",
+  "antecedentes_toxicologicos": "Exfumadora (fumó 20 años, dejó hace 30)",
+  "antecedentes_alergicos": "Alérgica a la penicilina y al paracetamol",
+  "antecedentes_oncologicos": "Cáncer de mama tratado hace 15 años (remisión completa)",
+  "antecedentes_ginecologicos": "Menopausia a los 50 años, histerectomía total a los 60 años",
+  "antecedentes_farmacologicos": "Insulina diaria, antihipertensivos, estatinas",
+  "antecedentes_neurologicos": "Deterioro cognitivo leve, antecedentes de episodios de confusión, pérdida de equilibrio frecuente, diagnóstico de enfermedad de Alzheimer en etapa inicial",
+  "antecedentes_familiares": "Madre con demencia senil, padre fallecido por infarto cerebral"
+},
+{
+  "_id": {
+    "$oid": "680e5a1c9bf2f4fdbfae2dd7"
+  },
+  "paciente": {
+    "$oid": "680e57919bf2f4fdbfae2dd5"
+  },
+  "fecha_historia": {
+    "$date": "2025-04-27T16:23:56.158Z"
+  },
+  "personal_medico": {
+    "$oid": "680e54d59bf2f4fdbfae2dd4"
+  },
+  "antecedentes_personales": "Gastritis crónica diagnosticada hace 2 años",
+  "antecedentes_traumatologicos": "Fractura de radio izquierdo por caída en 2020",
+  "antecedentes_quirurgicos": "Ninguno",
+  "antecedentes_toxicologicos": "No fuma, no consume alcohol ni drogas",
+  "antecedentes_alergicos": "Alergia a la dipirona",
+  "antecedentes_oncologicos": "Sin antecedentes oncológicos",
+  "antecedentes_ginecologicos": "No aplica",
+  "antecedentes_farmacologicos": "Omeprazol 20mg en tratamiento intermitente",
+  "antecedentes_familiares": "Madre con antecedentes de úlceras gástricas"
+},
+{
+  "_id": {
+    "$oid": "680e7dff848852e3c4b245fa"
+  },
+  "paciente": {
+    "$oid": "680e7cb3848852e3c4b245f9"
+  },
+  "fecha_historia": {
+    "$date": "2025-04-27T18:57:03.106Z"
+  },
+  "personal_medico": {
+    "$oid": "680d96469bf2f4fdbfae2dc6"
+  },
+  "antecedentes_personales": "Nacimiento prematuro a las 32 semanas, bajo peso al nacer, respiración asistida por 48 horas.",
+  "antecedentes_traumatologicos": "No presenta antecedentes de traumatismos.",
+  "antecedentes_quirurgicos": "No ha sido sometido a cirugías.",
+  "antecedentes_toxicologicos": "No está expuesto a sustancias tóxicas.",
+  "antecedentes_alergicos": "No presenta antecedentes de alergias conocidas.",
+  "antecedentes_oncologicos": "Sin antecedentes familiares de cáncer.",
+  "antecedentes_ginecologicos": "No aplica, es menor de edad.",
+  "antecedentes_farmacologicos": "No está bajo ningún tratamiento farmacológico habitual.",
+  "antecedentes_familiares": "Madre con asma, padre sin antecedentes respiratorios."
+}]

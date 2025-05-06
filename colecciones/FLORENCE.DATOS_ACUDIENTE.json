@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "680d73f09bf2f4fdbfae2dbd"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9e"
+  },
+  "documento_acudiente": 30338573,
+  "nombre_acudiente": "Casilda",
+  "apellido_acudiente": "Del Valle",
+  "telefono_acudiente": {
+    "$numberLong": "3156975233"
+  },
+  "pacientes": [
+    {
+      "id_paciente": {
+        "$oid": "680d70cf9bf2f4fdbfae2dbc"
+      },
+      "parentesco": "esposo/a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680d73f09bf2f4fdbfae2dbe"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "documento_acudiente": 30338630,
+  "nombre_acudiente": "Ruperto",
+  "apellido_acudiente": "De la Vega",
+  "telefono_acudiente": {
+    "$numberLong": "3121234567"
+  },
+  "pacientes": [
+    {
+      "id_paciente": {
+        "$oid": "680d70cf9bf2f4fdbfae2dbc"
+      },
+      "parentesco": "hijo/a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680da3e29bf2f4fdbfae2dca"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2da2"
+  },
+  "documento_acudiente": 303385,
+  "nombre_acudiente": "Vinicio",
+  "apellido_acudiente": "Perez",
+  "telefono_acudiente": {
+    "$numberLong": "4266975233"
+  },
+  "pacientes": [
+    {
+      "id_paciente": {
+        "$oid": "680da2779bf2f4fdbfae2dc9"
+      },
+      "parentesco": "padre"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680e4d3d9bf2f4fdbfae2dd0"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9e"
+  },
+  "documento_acudiente": 56338580,
+  "nombre_acudiente": "Josirely",
+  "apellido_acudiente": "Cuberos",
+  "telefono_acudiente": {
+    "$numberLong": "4125697923"
+  },
+  "pacientes": [
+    {
+      "id_paciente": {
+        "$oid": "680e4bf09bf2f4fdbfae2dcf"
+      },
+      "parentesco": "nieto/a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680e58b29bf2f4fdbfae2dd6"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "documento_acudiente": 9633855,
+  "nombre_acudiente": "Jennyffair",
+  "apellido_acudiente": "Pardo",
+  "telefono_acudiente": {
+    "$numberLong": "4263131563"
+  },
+  "pacientes": [
+    {
+      "id_paciente": {
+        "$oid": "680e57919bf2f4fdbfae2dd5"
+      },
+      "parentesco": "tio/a"
+    }
+  ]
+}]

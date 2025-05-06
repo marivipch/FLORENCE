@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "codigo_ap": "ME71203",
+  "tipo_ambito": "Medico"
+},
+{
+  "_id": {
+    "$oid": "680e5c609bf2f4fdbfae2dd9"
+  },
+  "codigo_ap": "PE13575",
+  "tipo_ambito": "Personal de enfermeria"
+},
+{
+  "_id": {
+    "$oid": "680e5ccd9bf2f4fdbfae2dda"
+  },
+  "codigo_ap": "PR27949",
+  "tipo_ambito": "Personal de Rehabilitacion y Terapia"
+},
+{
+  "_id": {
+    "$oid": "680e5d4e9bf2f4fdbfae2ddb"
+  },
+  "codigo_ap": "TS10878",
+  "tipo_ambito": "Tecnico de Salud"
+},
+{
+  "_id": {
+    "$oid": "680e5db39bf2f4fdbfae2ddc"
+  },
+  "codigo_ap": "PM80110",
+  "tipo_ambito": "Personal de Salud Mental"
+},
+{
+  "_id": {
+    "$oid": "680e5dfd9bf2f4fdbfae2ddd"
+  },
+  "codigo_ap": "PP40408",
+  "tipo_ambito": "Personal de Salud Publica"
+},
+{
+  "_id": {
+    "$oid": "680e5ea59bf2f4fdbfae2dde"
+  },
+  "codigo_ap": "PD23715",
+  "tipo_ambito": "Personal de Apoyo Diagnostico"
+}]

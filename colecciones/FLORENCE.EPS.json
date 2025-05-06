@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "680d6d629bf2f4fdbfae2db7"
+  },
+  "nombre_eps": "Compensar",
+  "direccion_eps": "Avenida 68 # 49A-47, Bogotá D.C",
+  "telefono_eps": {
+    "$numberLong": "18000915202"
+  },
+  "pagina_web": "https://corporativo.compensar.com/"
+},
+{
+  "_id": {
+    "$oid": "680d6d629bf2f4fdbfae2db8"
+  },
+  "nombre_eps": "Capital salud",
+  "direccion_eps": "Kr 30 # 73 – 26, Bogotá D.C",
+  "telefono_eps": {
+    "$numberLong": "18000122219"
+  },
+  "pagina_web": "https://www.capitalsalud.gov.co/"
+},
+{
+  "_id": {
+    "$oid": "680d6d629bf2f4fdbfae2db9"
+  },
+  "nombre_eps": "Sanitas",
+  "direccion_eps": "Calle 80 #89, Bogotá D.C",
+  "telefono_eps": {
+    "$numberLong": "18000940304"
+  },
+  "pagina_web": "https://www.epssanitas.com/"
+},
+{
+  "_id": {
+    "$oid": "680d6d629bf2f4fdbfae2dba"
+  },
+  "nombre_eps": "Nueva EPS",
+  "direccion_eps": "Carrera 85K # 46A-66 Bogotá D.C",
+  "telefono_eps": {
+    "$numberLong": "18000930100"
+  },
+  "pagina_web": "https://www.nuevaeps.com.co/"
+},
+{
+  "_id": {
+    "$oid": "680d6d629bf2f4fdbfae2dbb"
+  },
+  "nombre_eps": "Salud Total",
+  "direccion_eps": "Cl. 80 #40, Bogotá D.C",
+  "telefono_eps": {
+    "$numberLong": "18000114524"
+  },
+  "pagina_web": "https://saludtotal.com.co/"
+}]

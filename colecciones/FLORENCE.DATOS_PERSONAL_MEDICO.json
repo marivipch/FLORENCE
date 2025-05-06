@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "680d6a599bf2f4fdbfae2db4"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "documento_pmedico": 10001234,
+  "nombre_pmedico": "Laura",
+  "apellido_pmedico": "Ramos",
+  "codigo_registro_medico": 202504260613,
+  "ambito_profesional": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "clasif_ambito": {
+    "$oid": "680d45ba9bf2f4fdbfae2da5"
+  },
+  "telefono_pmedico": 4245581848,
+  "direccion_pmedico": "Av. Libertador, Caracas",
+  "email_pmedico": "laura.ramos@hospital.com"
+},
+{
+  "_id": {
+    "$oid": "680d94a49bf2f4fdbfae2dc5"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2da0"
+  },
+  "documento_pmedico": 88021237,
+  "nombre_pmedico": "Carlos",
+  "apellido_pmedico": "Chipia",
+  "codigo_registro_medico": 202504270916,
+  "ambito_profesional": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "clasif_ambito": {
+    "$oid": "680d47449bf2f4fdbfae2dab"
+  },
+  "telefono_pmedico": 4166681343,
+  "direccion_pmedico": "Barrio San Jose Calle 2 #1-40, Táchira",
+  "email_pmedico": "carlos.chipia@florence.com"
+},
+{
+  "_id": {
+    "$oid": "680e48979bf2f4fdbfae2dcd"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "documento_pmedico": 790156242,
+  "nombre_pmedico": "Yuribileisy",
+  "apellido_pmedico": "Muñoz",
+  "codigo_registro_medico": 202504281004,
+  "ambito_profesional": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "clasif_ambito": {
+    "$oid": "680d471d9bf2f4fdbfae2daa"
+  },
+  "telefono_pmedico": 4167789201,
+  "direccion_pmedico": "Av. Universidad, Edif. El Ávila, Caracas",
+  "email_pmedico": "yuribileisy.muñoz@florence.com"
+},
+{
+  "_id": {
+    "$oid": "680e54329bf2f4fdbfae2dd3"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2da0"
+  },
+  "documento_pmedico": 440028249,
+  "nombre_pmedico": "Beneda",
+  "apellido_pmedico": "Araujo",
+  "codigo_registro_medico": 202504281055,
+  "ambito_profesional": {
+    "$oid": "680d444a9bf2f4fdbfae2da3"
+  },
+  "clasif_ambito": {
+    "$oid": "680d471d9bf2f4fdbfae2daa"
+  },
+  "telefono_pmedico": 4247239987,
+  "direccion_pmedico": "Carrera 2 #27-3, Tachira",
+  "email_pmedico": "beneda.araujo@florence.com"
+},
+{
+  "_id": {
+    "$oid": "680e6fdd848852e3c4b245f3"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "documento_pmedico": 88190866,
+  "nombre_pmedico": "Heider",
+  "apellido_pmedico": "Fonseca",
+  "codigo_registro_medico": 202504271253,
+  "ambito_profesional": {
+    "$oid": "680e5db39bf2f4fdbfae2ddc"
+  },
+  "clasif_ambito": {
+    "$oid": "680e63949bf2f4fdbfae2deb"
+  },
+  "telefono_pmedico": 4247024688,
+  "direccion_pmedico": "Calle 53 bis #10-24",
+  "email_pmedico": "heider.fonsecas@florence.com"
+},
+{
+  "_id": {
+    "$oid": "680e7423848852e3c4b245f6"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "documento_pmedico": 41121800,
+  "nombre_pmedico": "Veruska",
+  "apellido_pmedico": "Lovera",
+  "codigo_registro_medico": 202504290112,
+  "ambito_profesional": {
+    "$oid": "680e5db39bf2f4fdbfae2ddc"
+  },
+  "clasif_ambito": {
+    "$oid": "680e63b99bf2f4fdbfae2dec"
+  },
+  "telefono_pmedico": 4269856228,
+  "direccion_pmedico": "Calle 13 bis #18-27",
+  "email_pmedico": "veruska.lovera@florence.com"
+}]

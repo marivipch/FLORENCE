@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "680d70cf9bf2f4fdbfae2dbc"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9d"
+  },
+  "documento": 35896232,
+  "nombre_paciente": "Rogelio",
+  "apellido_paciente": "De la Vega",
+  "uid_rfid": "12FA0E",
+  "fecha_nacimiento": {
+    "$date": "1975-04-04T15:30:00.000Z"
+  },
+  "genero": "masculino",
+  "grupo_sanguineo": "O-",
+  "eps": {
+    "$oid": "680d6d629bf2f4fdbfae2db9"
+  },
+  "estado_civil": "casado",
+  "religion": "judio",
+  "telefono_paciente": {
+    "$numberLong": "4163135208"
+  },
+  "direccion_paciente": "Av. Carrera 50 #5-12",
+  "acudientes": [
+    {
+      "id_acudiente": {
+        "$oid": "680d73f09bf2f4fdbfae2dbd"
+      }
+    },
+    {
+      "id_acudiente": {
+        "$oid": "680d73f09bf2f4fdbfae2dbe"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680da2779bf2f4fdbfae2dc9"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9f"
+  },
+  "documento": 45789321,
+  "nombre_paciente": "Pancracia",
+  "apellido_paciente": "Perez",
+  "uid_rfid": "3A9F8B",
+  "fecha_nacimiento": {
+    "$date": "2015-06-15T00:00:00.000Z"
+  },
+  "genero": "femenino",
+  "grupo_sanguineo": "A+",
+  "eps": {
+    "$oid": "680d6d629bf2f4fdbfae2db7"
+  },
+  "estado_civil": "soltera",
+  "religion": "catolica",
+  "telefono_paciente": {
+    "$numberLong": "4125581234"
+  },
+  "direccion_paciente": "Carrera 12 #4-43",
+  "acudientes": {
+    "$oid": "680da3e29bf2f4fdbfae2dca"
+  }
+},
+{
+  "_id": {
+    "$oid": "680e4bf09bf2f4fdbfae2dcf"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2da2"
+  },
+  "documento": 18452967,
+  "nombre_paciente": "Anezka",
+  "apellido_paciente": "Ramírez",
+  "uid_rfid": "9F8B7C",
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-935366400000"
+    }
+  },
+  "genero": "femenino",
+  "grupo_sanguineo": "AB+",
+  "eps": {
+    "$oid": "680d6d629bf2f4fdbfae2dba"
+  },
+  "estado_civil": "viuda",
+  "religion": "católica",
+  "telefono_paciente": {
+    "$numberLong": "4167891234"
+  },
+  "direccion_paciente": "Calle Los Almendros #7-21",
+  "acudientes": [
+    {
+      "id_acudiente": {
+        "$oid": "680e4d3d9bf2f4fdbfae2dd0"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680e57919bf2f4fdbfae2dd5"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2d9f"
+  },
+  "documento": 1820296756,
+  "nombre_paciente": "Reinier",
+  "apellido_paciente": "Pardo",
+  "uid_rfid": "3A8B0C",
+  "fecha_nacimiento": {
+    "$date": "2008-04-04T00:00:00.000Z"
+  },
+  "genero": "masculino",
+  "grupo_sanguineo": "O+",
+  "eps": {
+    "$oid": "680d6d629bf2f4fdbfae2db8"
+  },
+  "estado_civil": "soltero",
+  "religion": "católica",
+  "telefono_paciente": {
+    "$numberLong": "4147060248"
+  },
+  "direccion_paciente": "Calle 22 #1-11",
+  "acudientes": [
+    {
+      "id_acudiente": {
+        "$oid": "680e58b29bf2f4fdbfae2dd6"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680e7cb3848852e3c4b245f9"
+  },
+  "tipo_documento": {
+    "$oid": "680d407a9bf2f4fdbfae2da1"
+  },
+  "documento": 55666292,
+  "nombre_paciente": "Yoneiker",
+  "apellido_paciente": "De la Vega",
+  "uid_rfid": "19F83E",
+  "fecha_nacimiento": {
+    "$date": "2025-01-02T15:30:00.000Z"
+  },
+  "genero": "masculino",
+  "grupo_sanguineo": "B-",
+  "eps": {
+    "$oid": "680d6d629bf2f4fdbfae2dbb"
+  },
+  "estado_civil": "soltero",
+  "religion": "judio",
+  "telefono_paciente": {
+    "$numberLong": "4164445298"
+  },
+  "direccion_paciente": "Carrera #5-32",
+  "acudientes": [
+    {
+      "id_acudiente": {
+        "$oid": "680d73f09bf2f4fdbfae2dbe"
+      }
+    }
+  ]
+}]

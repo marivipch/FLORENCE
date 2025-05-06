@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "680d6c059bf2f4fdbfae2db6"
+  },
+  "personal_medico": {
+    "$oid": "680d6a599bf2f4fdbfae2db4"
+  },
+  "pregunta": {
+    "$oid": "680d66d69bf2f4fdbfae2db2"
+  },
+  "respuesta": "El monje que vendio su ferrari",
+  "contraseña": "love23#07."
+},
+{
+  "_id": {
+    "$oid": "680d96469bf2f4fdbfae2dc6"
+  },
+  "personal_medico": {
+    "$oid": "680d94a49bf2f4fdbfae2dc5"
+  },
+  "pregunta": {
+    "$oid": "680d66d69bf2f4fdbfae2dae"
+  },
+  "respuesta": "Martinez",
+  "contraseña": "gochilandia"
+},
+{
+  "_id": {
+    "$oid": "680e495c9bf2f4fdbfae2dce"
+  },
+  "personal_medico": {
+    "$oid": "680e48979bf2f4fdbfae2dcd"
+  },
+  "pregunta": {
+    "$oid": "680d66d69bf2f4fdbfae2db3"
+  },
+  "respuesta": "Cruz Roja",
+  "contraseña": "coraje123"
+},
+{
+  "_id": {
+    "$oid": "680e54d59bf2f4fdbfae2dd4"
+  },
+  "personal_medico": {
+    "$oid": "680e54329bf2f4fdbfae2dd3"
+  },
+  "pregunta": {
+    "$oid": "680d66d69bf2f4fdbfae2daf"
+  },
+  "respuesta": "Buenos Aires",
+  "contraseña": "sapegato"
+},
+{
+  "_id": {
+    "$oid": "680e7085848852e3c4b245f4"
+  },
+  "personal_medico": {
+    "$oid": "680e6fdd848852e3c4b245f3"
+  },
+  "pregunta": {
+    "$oid": "680d66d69bf2f4fdbfae2db2"
+  },
+  "respuesta": "Silmalirum",
+  "contraseña": "la_flaca"
+},
+{
+  "_id": {
+    "$oid": "680e79f6848852e3c4b245f7"
+  },
+  "personal_medico": {
+    "$oid": "680e7423848852e3c4b245f6"
+  },
+  "pregunta": {
+    "$oid": "680d66d69bf2f4fdbfae2db1"
+  },
+  "respuesta": "Dubraska",
+  "contraseña": "nimeladilles"
+}]
